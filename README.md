@@ -14,8 +14,8 @@
 > -Venta: coche, usuario, contacto
 > 
 > ## Integrantes del equipo de desarrollo:
-> 1. Pavel Egido del Arco; 	p.egido@alumnos.urjc.es; Cuenta GitHub: ROLLIN89
-> 2. Alvaro 	Rollin Guerro; Correo:	a.rollin@alumnos.urjc.es; Cuenta GitHub:  
+> 1. Pavel Egido del Arco; 	p.egido@alumnos.urjc.es; Cuenta GitHub: o0Pavelo0 
+> 2. Alvaro 	Rollin Guerro; Correo:	a.rollin@alumnos.urjc.es; Cuenta GitHub: ROLLIN89
 > 3. Osvaldo Renato	Luzuriaga Luzuriaga; Correo: or.luzuriaga@alumnos.urjc.es; Cuenta GitHub: orluzuriaga
 >
 > ## Tablero Trello
